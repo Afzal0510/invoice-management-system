@@ -1,0 +1,11 @@
+# Core Django package
+django>=3.2,<5.0
+
+# Django REST Framework for building APIs
+djangorestframework>=3.12,<4.0
+
+# django-environ for environment variable management
+django-environ>=0.4.5,<1.0
+
+# mysqlclient for MySQL database support
+mysqlclient
