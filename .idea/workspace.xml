@@ -10,6 +10,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
 }]]></component>
@@ -21,7 +24,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Mohd Afzal Ansari/OneDrive/Desktop/django_social_app/social_app/django_internal_project"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Mohd Afzal Ansari/OneDrive/Desktop/Book_backend/BookIt"
   }
 }]]></component>
   <component name="SharedIndexes">
